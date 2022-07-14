@@ -1,0 +1,7 @@
+[YaST_SLE-15_SP4]
+name=SLE-15 SP4 maintenance project (openSUSE_Leap_15.4)
+type=rpm-md
+baseurl=https://download.opensuse.org/repositories/YaST:/SLE-15:/SP4/openSUSE_Leap_15.4/
+gpgcheck=1
+gpgkey=https://download.opensuse.org/repositories/YaST:/SLE-15:/SP4/openSUSE_Leap_15.4/repodata/repomd.xml.key
+enabled=1

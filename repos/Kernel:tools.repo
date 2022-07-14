@@ -1,0 +1,7 @@
+[Kernel_tools]
+name=Tools for working with the SUSE kernel sources (SLE_15_SP4)
+type=rpm-md
+baseurl=https://download.opensuse.org/repositories/Kernel:/tools/SLE_15_SP4/
+gpgcheck=1
+gpgkey=https://download.opensuse.org/repositories/Kernel:/tools/SLE_15_SP4/repodata/repomd.xml.key
+enabled=1

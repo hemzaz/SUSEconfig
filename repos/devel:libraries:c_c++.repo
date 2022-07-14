@@ -1,0 +1,7 @@
+[devel_libraries_c_c++]
+name=A project for basic libraries shared among multiple projects (openSUSE_Leap_15.4)
+type=rpm-md
+baseurl=https://download.opensuse.org/repositories/devel:/libraries:/c_c%2B%2B/openSUSE_Leap_15.4/
+gpgcheck=1
+gpgkey=https://download.opensuse.org/repositories/devel:/libraries:/c_c%2B%2B/openSUSE_Leap_15.4/repodata/repomd.xml.key
+enabled=1

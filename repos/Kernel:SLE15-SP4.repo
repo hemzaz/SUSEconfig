@@ -1,0 +1,7 @@
+[Kernel_SLE15-SP4]
+name=Kernel builds for branch SLE15-SP4 (pool)
+type=rpm-md
+baseurl=https://download.opensuse.org/repositories/Kernel:/SLE15-SP4/pool/
+gpgcheck=1
+gpgkey=https://download.opensuse.org/repositories/Kernel:/SLE15-SP4/pool/repodata/repomd.xml.key
+enabled=1

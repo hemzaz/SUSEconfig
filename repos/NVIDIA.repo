@@ -1,0 +1,4 @@
+[NVIDIA]
+enabled=1
+autorefresh=0
+baseurl=https://download.nvidia.com/opensuse/leap/15.4/

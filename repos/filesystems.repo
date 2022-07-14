@@ -1,0 +1,7 @@
+[filesystems]
+name=Filesystem tools and FUSE-related packages (15.4)
+type=rpm-md
+baseurl=https://download.opensuse.org/repositories/filesystems/15.4/
+gpgcheck=1
+gpgkey=https://download.opensuse.org/repositories/filesystems/15.4/repodata/repomd.xml.key
+enabled=1

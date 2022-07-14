@@ -1,0 +1,7 @@
+[system_packagemanager]
+name=Packagemanagers for/from different distributions (15.4)
+type=rpm-md
+baseurl=https://download.opensuse.org/repositories/system:/packagemanager/15.4/
+gpgcheck=1
+gpgkey=https://download.opensuse.org/repositories/system:/packagemanager/15.4/repodata/repomd.xml.key
+enabled=1
